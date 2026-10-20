@@ -1,0 +1,5 @@
+# SiN dedicated server seeds — generated 2026-10-20 19:38 UTC
+# Sources: extras.txt + optional public lists (when available).
+# Format: one ip:port per line (game / connect port).
+
+95.179.197.192:22450

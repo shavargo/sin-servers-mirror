@@ -1,0 +1,4 @@
+# Always-included SiN dedicated addresses (not scraped). One ip:port per line.
+# Default SiN Gold hostport is 22450 (game / connect port).
+# Community 24/7 DM (Steam group: singoldmultiplayer) — may be offline at times.
+95.179.197.192:22450
